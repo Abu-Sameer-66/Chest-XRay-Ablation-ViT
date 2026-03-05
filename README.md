@@ -9,7 +9,6 @@
 
 
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Model-ViT_B/16-000000?style=for-the-badge&logo=openai&logoColor=white" />
